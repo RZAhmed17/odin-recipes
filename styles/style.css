@@ -1,0 +1,12 @@
+.title {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: brown;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+}
